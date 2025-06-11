@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm **José de Jesús Quintana Díaz**<br><br>
+👋 Hi, I'm **Josu**<br><br>
 I'm a passionate software developer from Querétaro, México. I specialize in frontend development with **React** and enjoy creating intuitive user interfaces using **Figma**. I love learning, collaborating on functional and creative projects, and growing as a fullstack developer.<br><br>
 
 🔭 I'm currently working on: web applications using React and enhancing my frontend skills.<br><br>
